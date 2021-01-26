@@ -1,0 +1,6 @@
+c:\users\lemillion\documents\visual studio 2015\Projects\Chat_Kira\Chat_Kira\bin\Debug\Chat_Kira.exe.config
+c:\users\lemillion\documents\visual studio 2015\Projects\Chat_Kira\Chat_Kira\obj\Debug\Chat_Kira.csprojResolveAssemblyReference.cache
+c:\users\lemillion\documents\visual studio 2015\Projects\Chat_Kira\Chat_Kira\bin\Debug\Chat_Kira.exe
+c:\users\lemillion\documents\visual studio 2015\Projects\Chat_Kira\Chat_Kira\bin\Debug\Chat_Kira.pdb
+c:\users\lemillion\documents\visual studio 2015\Projects\Chat_Kira\Chat_Kira\obj\Debug\Chat_Kira.exe
+c:\users\lemillion\documents\visual studio 2015\Projects\Chat_Kira\Chat_Kira\obj\Debug\Chat_Kira.pdb
