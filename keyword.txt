@@ -1,0 +1,8 @@
+Contém palavra chave para acesso.
+
+Palavra Chave para Admin:
+*System Call
+
+
+Palavra Chave para Outros:
+* Qualquer.
